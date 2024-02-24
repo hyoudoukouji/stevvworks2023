@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     font-family: var(--font);
     /* background: radial-gradient(ellipse at bottom, var(--bgColor) 0%, var(--bgColor2) 100%); */
-    background-image: url('https://cdn.discordapp.com/attachments/876637980108931096/1126459254728036392/IMG_8082.jpg'); 
+    background-image: url('https://cdn.discordapp.com/attachments/710724836103553045/1210965194356817970/IMG_8082.jpg?ex=65ec7a38&is=65da0538&hm=795bf30736b4ba14282786937e60e7da1c3b1e3a702cde51bf331a466552b7ba&'); 
     opacity: 0;
     animation: 1s ease-out var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name */
     animation-fill-mode: forwards;
