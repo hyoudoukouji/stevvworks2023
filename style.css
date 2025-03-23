@@ -17,6 +17,21 @@ body {
   color: #e4bb68;
 }
 
+.togawa {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 20px;
+}
+
+video {
+  width: 50%;
+  max-width: 500px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
 .string {
   display: flex;
   flex-direction: column;
