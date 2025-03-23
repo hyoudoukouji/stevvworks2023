@@ -34,15 +34,6 @@ video {
       }
     }
 
-.footer {
-      margin-top: 100px;
-      font-size: 10px;
-      color: #61afef;
-    }
-    .footer a {
-      color: #61afef;
-      text-decoration: none;
-    }
 
 .string {
   display: flex;
@@ -103,3 +94,10 @@ video {
     transform: translatey(-16.5vmin);
   }
 }
+
+
+.footer {
+      margin-top: -5px;
+      font-size: 10px;
+      color: #61afef;
+    }
