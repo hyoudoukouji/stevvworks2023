@@ -40,7 +40,7 @@ h1.glitch::after {
   left: 0;
   width: 100%;
   color: #ff3333;
-  background: black;
+  background: transparent;
   overflow: hidden;
 }
 h1.glitch::before {
