@@ -109,3 +109,18 @@ button {
 button:hover {
   background-color: #990000;
 }
+
+.enter-link {
+  background-color: #ff3333;
+  color: #fff;
+  padding: 15px 30px;
+  text-decoration: none;
+  font-size: 1em;
+  font-weight: bold;
+  border: none;
+  display: inline-block;
+  transition: background 0.3s ease;
+}
+.enter-link:hover {
+  background-color: #990000;
+}
