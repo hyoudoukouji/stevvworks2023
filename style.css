@@ -47,12 +47,18 @@ h1.glitch::before {
   top: -2px;
   text-shadow: -2px 0 red;
   animation: glitchTop 1s infinite linear alternate-reverse;
+  opacity: 0.7;
+  mix-blend-mode: lighten;
 }
+
 h1.glitch::after {
   top: 2px;
   text-shadow: 2px 0 blue;
   animation: glitchBottom 1s infinite linear alternate-reverse;
+  opacity: 0.7;
+  mix-blend-mode: lighten;
 }
+
 
 @keyframes glitchTop {
   0% { clip-path: inset(0 0 80% 0); }
